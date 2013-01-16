@@ -4,7 +4,7 @@
   <title><![CDATA[Ravi Gadhia]]></title>
   <link href="http://Ravi-Gadhia.github.com/atom.xml" rel="self"/>
   <link href="http://Ravi-Gadhia.github.com/"/>
-  <updated>2013-01-17T01:47:44+05:30</updated>
+  <updated>2013-01-17T02:19:07+05:30</updated>
   <id>http://Ravi-Gadhia.github.com/</id>
   <author>
     <name><![CDATA[Ravi Gadhia]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Various Technique of Debugging for Python]]></title>
-    <link href="http://Ravi-Gadhia.github.com/blog/2013/01/06/title/"/>
-    <updated>2013-01-06T18:47:00+05:30</updated>
-    <id>http://Ravi-Gadhia.github.com/blog/2013/01/06/title</id>
+    <link href="http://Ravi-Gadhia.github.com/blog/2013/01/17/title/"/>
+    <updated>2013-01-17T18:47:00+05:30</updated>
+    <id>http://Ravi-Gadhia.github.com/blog/2013/01/17/title</id>
     <content type="html"><![CDATA[<p>Debugging is most important aspect of the programming. When we found a bug we starting digging code with our handy tool and library. Sometime it’s look like solving math equations using <a href="http://en.wikipedia.org/wiki/Bisection_method">bisection method</a>. From spot fix to root fix. It become quite tedious and complex when you dealing with large framework where hundreds of class and thousands of methods are define. Lots of instance create and destroy runtime. Let’s start with python.</p>
 
 <p>One of my favorite lib for debuggin of python code is <a href="http://docs.python.org/2/library/inspect.html">inspect</a>.<br />
